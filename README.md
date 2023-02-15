@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap">
 </a>
+<a href="https://cloudflare.com/">
+    <img src="https://img.shields.io/badge/cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" alt="cloudflare">
+</a>
 <a href="https://docker.com/">
     <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="docker">
 </a>
@@ -46,8 +49,11 @@ Here are some ideas to get you started:
 <a href="https://dotnet.microsoft.com/">
     <img src="https://img.shields.io/badge/.net-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".net">
 </a>
+<a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="next.js">
+</a>
 <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="nodejs">
+    <img src="https://img.shields.io/badge/node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="node.js">
 </a>
 <a href="https://obsidian.md/">
     <img src="https://img.shields.io/badge/obsidian-483699?logo=obsidian&logoColor=white&style=for-the-badge" alt="obsidian">
