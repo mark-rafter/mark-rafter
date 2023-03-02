@@ -16,54 +16,21 @@ Here are some ideas to get you started:
 -->
 
 #### Some of the tech I use:
-<a href="https://www.angular.io/">
-    <img src="https://img.shields.io/badge/angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="angular">
-</a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">
-    <img src="https://img.shields.io/badge/blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge" alt="blazor">
-</a>
-<a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap">
-</a>
-<a href="https://cloudflare.com/">
-    <img src="https://img.shields.io/badge/cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" alt="cloudflare">
-</a>
-<a href="https://docker.com/">
-    <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="docker">
-</a>
-<a href="https://godotengine.org/">
-    <img src="https://img.shields.io/badge/godot-478CBF?logo=godot-engine&logoColor=white&style=for-the-badge" alt="godot">
-</a>
-<a href="https://heroku.com/">
-    <img src="https://img.shields.io/badge/heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" alt="heroku">
-</a>
-<a href="https://www.ableton.com/">
-    <img src="https://img.shields.io/badge/live-000000?logo=abletonlive&logoColor=white&style=for-the-badge" alt="ableton live">
-</a>
-<a href="https://www.miro.com/">
-    <img src="https://img.shields.io/badge/miro-ffd02f?logo=miro&logoColor=050038&style=for-the-badge" alt="miro">
-</a>
-<a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb">
-</a>
-<a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.net-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".net">
-</a>
-<a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="next.js">
-</a>
-<a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="node.js">
-</a>
-<a href="https://obsidian.md/">
-    <img src="https://img.shields.io/badge/obsidian-483699?logo=obsidian&logoColor=white&style=for-the-badge" alt="obsidian">
-</a>
-<a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-20232a?logo=react&logoColor=61DAFB&logoWidth=15&style=for-the-badge" alt="react">
-</a>
-<a href="https://supabase.com/">
-    <img src="https://img.shields.io/badge/supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="supabase">
-</a>
-<a href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/badge/tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="tailwind css">
-</a>
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)](https://www.angular.io)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff&style=for-the-badge)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)](https://getbootstrap.com)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)](https://cloudflare.com)
+[![draw.io](https://img.shields.io/badge/draw.io-F08705?logo=diagramsdotnet&logoColor=fff&style=for-the-badge)](https://app.diagrams.net/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://docker.com)
+[![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge)](https://godotengine.org)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge)](https://heroku.com)
+[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff&style=for-the-badge)](https://www.miro.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)](https://www.mongodb.com)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)](https://dotnet.microsoft.com)
+[![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://nextjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)](https://nodejs.org)
+[![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=fff&style=for-the-badge)](https://obsidian.md)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)](https://www.prisma.io)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)](https://reactjs.org)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff&style=for-the-badge)](https://supabase.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)](https://tailwindcss.com)
