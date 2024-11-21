@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my game: [Halucia](https://halucia.com?ref=github).
+
 <!--
 **mark-rafter/mark-rafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Tech I like
+#### Some tech I like
 
 [![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff&style=for-the-badge)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)](https://getbootstrap.com)
